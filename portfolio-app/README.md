@@ -1,3 +1,16 @@
+# Packages installed
+1. @emailjs/browser
+2. @fortawesome/free-brands-svg-icons
+3. @fortawesome/free-solid-svg-icons
+4. @fortawesome/react-fontawesome
+5. animate.css
+6. gsap-trial
+7. loaders.css
+8. react-leaflet
+9. react-loaders
+10. react-router-dom
+11. sass
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
